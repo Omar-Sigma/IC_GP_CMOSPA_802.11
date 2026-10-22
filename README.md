@@ -10,3 +10,5 @@ Fully-integrated 802.11 Power Amplifiers in 65nm Technology
 - The PAs demonstrated compliance with the spectral mask and OIIP3 of ≈ 39dBm, 40dBm respectively.
 - Post-layout simulations (with PDK-provided passives) showed a degradation of −8dB in gain and
 minimal degradation in OP1dB by about 1dB, with a PAE drop of 2 to 4%. With room for further tuning.
+
+(Unavailable for now)
